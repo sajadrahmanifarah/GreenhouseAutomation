@@ -1,0 +1,1 @@
+This program has been implemented to supervise a hydroponic greenhouse. It receives the data from sensors via Arduino, and the RaspberryPi processes the data and sends required commands to the equipment. The user can remotely monitor and control the pumps, fans, lights, heating and ventilation and other functions through a web based application
